@@ -116,3 +116,14 @@ margin-right: -15px !important;
 .navbar-right {
 float: right!important;
 }
+
+/* text highlighting colors */
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: #b80000;
+}
+
+::selection {
+    color: white;
+    background: #b80000;
+}
