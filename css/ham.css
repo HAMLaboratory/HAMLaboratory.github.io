@@ -1,7 +1,7 @@
 body {
    font-family: "Roboto",Georgia,"Helvetica Neue","Liberation Sans",Helvetica,Arial,sans-serif;
    font-size: 18px;
-   line-height: 1.6;
+   /*line-height: 1.6;*/
    color: black;
    letter-spacing: 0.05em;
 }
@@ -33,7 +33,7 @@ img.logo {
    color: #b80000;
 }
 
-ul.primary-nav>li>a.active {
+ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
    background-color: #b80000;
    color: white;
 }
@@ -43,5 +43,14 @@ ul.primary-nav>li>a.active {
    border-color: #b80000;
 }
 
-header {
+.content-wrap {
+   margin-top: 145px;
+   padding-left: 20%;
+   padding-right: 20%;
 }
+
+.jumbotron {
+   background-color: white;
+}
+
+.text-center {text-align: center;}
