@@ -1,0 +1,47 @@
+body {
+   font-family: "Roboto",Georgia,"Helvetica Neue","Liberation Sans",Helvetica,Arial,sans-serif;
+   font-size: 18px;
+   line-height: 1.6;
+   color: black;
+   letter-spacing: 0.05em;
+}
+
+img.logo {
+   width: auto;
+   height: 60px;
+}
+
+.navbar {
+   background-color: white;
+}
+
+.navbar-brand {
+   height: 95px;
+}
+
+.banner .primary-nav{
+   width: 100%;
+}
+
+.primary-nav {
+   background-color: #ecf0f1;
+   text-transform: uppercase;
+   padding-left: 30px;
+}
+
+.navbar-default .navbar-nav>li>a {
+   color: #b80000;
+}
+
+ul.primary-nav>li>a.active {
+   background-color: #b80000;
+   color: white;
+}
+
+.navbar-fixed-top {
+   border-bottom-width: 3px;
+   border-color: #b80000;
+}
+
+header {
+}
