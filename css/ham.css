@@ -8,7 +8,12 @@ body {
 
 img.logo {
    width: auto;
-   height: 60px;
+   height: 80px;
+}
+
+.navbar-icons img {
+   width: auto;
+   height: 50px;
 }
 
 .navbar {
@@ -17,6 +22,17 @@ img.logo {
 
 .navbar-brand {
    height: 95px;
+}
+
+.navbar-header {
+   display: inline-block;
+   float: left;
+}
+
+.navbar-icons {
+   display: inline-block;
+   float: right;
+   text-align: center;
 }
 
 .banner .primary-nav{
@@ -31,6 +47,8 @@ img.logo {
 
 .navbar-default .navbar-nav>li>a {
    color: #b80000;
+   padding-top: 10px;
+   padding-bottom: 10px;
 }
 
 ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
@@ -53,4 +71,5 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
    background-color: white;
 }
 
+.padding-10 {padding: 10px;}
 .text-center {text-align: center;}
