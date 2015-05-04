@@ -30,6 +30,12 @@ img.small {
    border: 10px solid #d5d5d5;
 }
 
+img.medium {
+   width: auto;
+   height: 250px;
+   border: 10px solid #d5d5d5;
+}
+
 .navbar-icons img {
    width: auto;
    height: 50px;
