@@ -6,7 +6,7 @@ body {
    letter-spacing: 0.05em;
    min-width: 960px;
    /* sticky footer height */
-   margin-bottom: 150px;
+   margin-bottom: 260px;
 }
 
 html {
@@ -88,15 +88,40 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
 
 .content-wrap {
    margin-top: 145px;
+   padding: 0px;
+   /*padding-left: 10%;
+   padding-right: 10%;*/
+   font-size: 15px;
+}
+
+.content {
    padding-left: 10%;
    padding-right: 10%;
-   font-size: 15px;
+}
+
+.content-regular1 {
+   border-top: 2px solid gray;
+   border-bottom: 2px solid gray;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.content-title {
+   
 }
 
 .content table td {
    padding-left: 40px;
    padding-right: 40px;
    vertical-align: top;
+}
+
+.footer-hotlink {
+   text-align: center;
+   background-color: rgba(150,0,0,0.5);
+   padding-bottom: 30px;
+   padding-top: 30px;
+   margin-bottom: 10px;
 }
 
 .jumbotron {
@@ -109,7 +134,7 @@ footer {
    width: 100%;
    position: absolute;
    bottom: 0;
-   height: 81px;
+   height: 186px;
 }
 
 .footer-copyright {
