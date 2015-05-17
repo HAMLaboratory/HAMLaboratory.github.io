@@ -49,7 +49,15 @@ img.medium {
    border: 10px solid #d5d5d5;
 }
 
+a.anchor{
+   display: block;
+   position: relative;
+   top: -150px;
+   visibility: hidden;
+}
+
 a.btn {
+   margin: 10px;
    border-radius: 0px;
    padding: 12px 30px 12px 30px;
    text-decoration: none;
