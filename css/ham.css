@@ -7,7 +7,7 @@ body {
    min-width: 960px;
    /* sticky footer height */
    margin-bottom: 260px;
-   margin-top: 200px;
+   margin-top: 160px;
 }
 
 html {
@@ -21,20 +21,50 @@ img.logo {
 }
 
 img.width-fit {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
    width: 100%;
    height: auto;
 }
 
 img.small {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
    width: auto;
    height: 170px;
+}
+
+img.border {
    border: 10px solid #d5d5d5;
 }
 
 img.medium {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
    width: auto;
    height: 250px;
    border: 10px solid #d5d5d5;
+}
+
+a.btn {
+   border-radius: 0px;
+   padding: 12px 30px 12px 30px;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-size: 13px;
+}
+
+a.btn-ham, a.btn-ham:hover {
+   background-color: rgba(150,0,0,0.5);
+   color: black;
+}
+
+a.btn-ham-footer, a.btn-ham-footer:hover {
+   background-color: #b80000;
+   color: white;
 }
 
 .navbar-icons img {
@@ -88,7 +118,6 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
 }
 
 .content-wrap {
-   margin-top: 145px;
    padding: 0px;
    /*padding-left: 10%;
    padding-right: 10%;*/
@@ -98,13 +127,19 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
 .content {
    padding-left: 10%;
    padding-right: 10%;
+   padding-bottom: 30px;
+   padding-top: 30px;
+}
+
+.content-center {
+   text-align: center;
+   padding-left: 20%;
+   padding-right: 20%;
 }
 
 .content-regular1 {
    border-top: 2px solid gray;
    border-bottom: 2px solid gray;
-   padding-top: 30px;
-   padding-bottom: 30px;
 }
 
 .content-title {
