@@ -49,6 +49,14 @@ img.medium {
    border: 10px solid #d5d5d5;
 }
 
+table.table-ham {
+   text-align: left;
+}
+
+table.table-ham thead th {
+   text-align: center;
+}
+
 a.anchor{
    display: block;
    position: relative;
