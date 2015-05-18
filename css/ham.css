@@ -63,6 +63,15 @@ table.table-ham thead th {
    text-align: center;
 }
 
+.spec-table {
+   display:block;
+   width:50%;
+   border-left:1px solid #ddd;
+   border-right:1px solid #ddd;
+   border-top:1px solid #ddd;
+   padding-top: 15px;
+}
+
 a.anchor{
    display: block;
    position: relative;
@@ -210,7 +219,8 @@ footer {
 .text-center {text-align: center;}
 .no-pad {padding: 0px;}
 .no-margin {margin: 0px;}
-
+.float-right{float:right;}
+.float-left {float:left;}
 
 /* prevent collapsing */
 .navbar-collapse.collapse {
