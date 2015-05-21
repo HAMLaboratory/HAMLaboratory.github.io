@@ -57,6 +57,13 @@ img.medium {
    border: 10px solid #d5d5d5;
 }
 
+.fa-tech {
+   height:170px;
+   vertical-align:middle;
+   font-size:7em;
+   color:rgb(51,51,51);
+}
+
 table.table-ham {
    text-align: left;
 }
