@@ -21,12 +21,11 @@ h2 {
    text-transform: uppercase;
    font-size: 1.7em;
    border-bottom: 1px solid gray;
-   color: #b80000;
+   color: #860000;
 }
 
 img.logo {
-   width: auto;
-   height: 80px;
+   height: 60px;
 }
 
 img.width-fit {
@@ -104,7 +103,7 @@ a.btn-ham, a.btn-ham:hover {
 }
 
 a.btn-ham-footer, a.btn-ham-footer:hover {
-   background-color: #b80000;
+   background-color: #860000;
    color: white;
 }
 
@@ -143,19 +142,19 @@ a.btn-ham-footer, a.btn-ham-footer:hover {
 }
 
 .navbar-default .navbar-nav>li>a {
-   color: #b80000;
+   color: #860000;
    padding-top: 10px;
    padding-bottom: 10px;
 }
 
 ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
-   background-color: #b80000;
+   background-color: #860000;
    color: white;
 }
 
 .navbar-fixed-top {
    border-bottom-width: 3px;
-   border-color: #b80000;
+   border-color: #860000;
 }
 
 .content-wrap {
@@ -211,7 +210,7 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
 
 footer {
    border-top-width: 3px;
-   border-color: #b80000;
+   border-color: #860000;
    width: 100%;
    position: absolute;
    bottom: 0;
@@ -222,7 +221,7 @@ footer {
    color: white;
    display: inline-block;
    float: left;
-   background-color: #b80000;
+   background-color: #860000;
    padding:30px;
    width: 100%;
    font-size: 15px;
@@ -256,10 +255,10 @@ float: right!important;
 /* text highlighting colors */
 ::-moz-selection { /* Code for Firefox */
     color: white;
-    background: #b80000;
+    background: #860000;
 }
 
 ::selection {
     color: white;
-    background: #b80000;
+    background: #860000;
 }
