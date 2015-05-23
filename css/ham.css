@@ -7,7 +7,7 @@ body {
    min-width: 960px;
    /* sticky footer height */
    margin-bottom: 260px;
-   margin-top: 160px;
+   margin-top: 150px;
 }
 
 html {
@@ -174,10 +174,16 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
    padding-top: 30px;
 }
 
+.content-main {
+   color: white;
+   background-color: rgba(134,0,0,1);
+}
+
 .content-center {
    text-align: center;
    padding-left: 20%;
    padding-right: 20%;
+   background-color: rgba(134,0,0,0.2);
 }
 
 .content-regular1 {
@@ -205,7 +211,7 @@ ul.primary-nav>li>a.active, ul.primary-nav>li>a.active:hover{
 }
 
 .jumbotron {
-   background-color: white;
+   border-radius: 0px;
 }
 
 footer {
