@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="148.62071"
-   height="42.430569"
+   width="167.9375"
+   height="55.5625"
    id="svg3148"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo1.svg">
   <defs
      id="defs3150" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="98.922422"
-     inkscape:cy="9.0463132"
+     inkscape:cx="105.98492"
+     inkscape:cy="16.365745"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,8 +34,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1875"
-     inkscape:window-height="1056"
+     inkscape:window-width="1321"
+     inkscape:window-height="744"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-23.903545,-84.288183)">
+     transform="translate(-16.841045,-78.475683)">
     <text
        xml:space="preserve"
        style="font-size:37.37365341px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:-0.70999992px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Webdings"
@@ -99,5 +99,5 @@
            height="77.276672"
            x="-7.8286824"
            y="-17.443581" /></flowRegion><flowPara
-         id="flowPara3196"></flowPara></flowRoot>  </g>
+         id="flowPara3196" /></flowRoot>  </g>
 </svg>
