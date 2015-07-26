@@ -71,7 +71,7 @@
      id="layer1"
      transform="translate(-123.53125,-170.78125)">
     <rect
-       style="fill:#740000;fill-opacity:1;stroke:#000000;stroke-width:6.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3267"
        width="284.28571"
        height="111.42857"
@@ -79,7 +79,7 @@
        y="174.01785" />
     <text
        xml:space="preserve"
-       style="font-size:80.49817656999999826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       style="font-size:80.49817656999999826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2b0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        x="116.09438"
        y="286.34467"
        id="text2985"
@@ -89,10 +89,10 @@
          x="116.09438"
          y="286.34467"
          id="tspan2989"
-         style="font-size:80.49817656999999826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#ffffff">HAM</tspan></text>
+         style="font-size:80.49817656999999826px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold;fill:#2b0000">HAM</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:38.11017989999999855px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:38.11017989999999855px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;font-family:Sans"
        x="140.66837"
        y="280.20508"
        id="text2993"
